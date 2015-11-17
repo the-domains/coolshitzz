@@ -1,6 +1,6 @@
 name: CoolShitzz
 favicon: null
-layout_spectrum: 0.9199085840955377
+layout_spectrum: 0.75182
 typography_spectrum: 0.6287185801193118
 title: Seeing differently.
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#dadad9'
-    - '#52514f'
-    - '#837b76'
-    - '#d5bfa0'
-    - '#be7f58'
+    - '#191919'
+    - '#1f1f1f'
+    - '#252525'
+    - '#2a2a2a'
+    - '#2e2e2e'
   brandStrength: 1
   lightness: 0.18317510094493628
-  saturation: 0.9307885759044439
+  saturation: 1
   rhythmicContrast: 0.41671615396626294
 purpose: []
