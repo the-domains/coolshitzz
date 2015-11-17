@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Seeing differently.]]></title>
         <description><![CDATA[Seeing differently.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/coolshitzz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 Nov 2015 21:31:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 17 Nov 2015 21:34:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/coolshitzz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8d52115-ec38-4461-aa0b-58cfc67f023a.png">]]></description>
+            <link>https://thegrid.ai/coolshitzz/79ac7aac-3850-491d-a007-da33adca039a/index.html</link>
+            <guid isPermaLink="false">79ac7aac-3850-491d-a007-da33adca039a</guid>
+            <pubDate>Tue, 17 Nov 2015 21:34:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/coolshitzz/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">f13c3703-37cf-4df8-887d-f6088ee202b0</guid>
             <pubDate>Tue, 17 Nov 2015 21:30:01 GMT</pubDate>
         </item>
